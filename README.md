@@ -2,7 +2,7 @@
 
 PROJETO DE UM JOGO DA VELHA PARA A DISCIPLINA DE FUNDAMENTOS DE PROGRAMAÇÃO(fup) - FACULDADE DE CIÊNCIAS DA COMPUTAÇÃO
 
-O software consiste em um menu onde pode-se criar perfis de jogadores que contabilizam partidas, vitórias, derrotas e empates. É possivel criar os perfis,
+O software consiste em um menu onde pode-se criar perfis de jogadores que contabilizam o total de partidas, as vitórias, derrotas e empates. É possivel criar os perfis,
 edita-los e apaga-los. Os perfis ficam salvos num arquivo, de modo que nao perca os dados a cada inicialização.
 
 CONCEITOS DE FUNDAMENTOS DE PROGRAMAÇÃO USADOS:
@@ -14,6 +14,8 @@ ponteiros;
 alocação dinâmica;
 arquivos;
 compilação separada;
+
+OBS: o jogo roda no prompt de comando do proprio computador!!
 
 EQUIPE/COLABORADORES:
 
